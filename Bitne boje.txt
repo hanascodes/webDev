@@ -1,0 +1,10 @@
+Relevant colors
+Black #000000
+Jebačka zelena #23a500
+Beharska roza #f57adb
+Seksi crvena #cd0000
+Fejsbuk plava #3b5998
+Fejsbuk siva #edf0f5
+Transparentno bijela #ffffff
+Deep purple #45005f
+Command prompt black #0c0c0c
